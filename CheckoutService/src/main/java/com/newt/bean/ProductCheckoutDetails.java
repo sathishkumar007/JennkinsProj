@@ -7,7 +7,6 @@ public class ProductCheckoutDetails {
 
  private Long customerId;
  private String customerName;
-
  private String customerEmail;
 
  private String address1;
