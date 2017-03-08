@@ -24,8 +24,7 @@ public class ProductCheckoutDetails {
 
  private String creditCardNo;
 
- private Date cardExpDate;
- 
+ private Date cardExpDate; 
  private List<ProductList> productList = new ArrayList<ProductList>();
 
  public ProductCheckoutDetails() {
